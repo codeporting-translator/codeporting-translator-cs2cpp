@@ -2,7 +2,7 @@
 
 CodePorting.Translator Cs2Cpp is a translator application that migrates C# project to C++
 
-This repository contains [Example C# projects](https://github.com/codeporting-translator/codeporting-translator-cs2cpp/tree/master/ExampleProjects) for CodePorting.Translator Cs2Cpp to demonstrate [how C# code is translated to C++](https://wiki.codeporting.com/translator/cs2cpp/getting-started/). Visit [codeporting.com](https://www.codeporting.com/) to get more details on this software.
+This repository contains [Example C# projects](https://github.com/codeporting-translator/codeporting-translator-cs2cpp/tree/master/ExampleProjects) for CodePorting.Translator Cs2Cpp to demonstrate how C# code is translated to C++. Visit [codeporting.com](https://www.codeporting.com/) to get more details on this software.
 
 [template.translator.config](https://github.com/codeporting-translator/codeporting-translator-cs2cpp/blob/master/template.translator.config) file is a CodePorting.Translator Cs2Cpp configuration file which can be used as a base for compiling a configuration for your own project.
 
@@ -25,9 +25,8 @@ Item | Description
 
 ## Resources
 
-+ **Website:** [www.codeporting.com](https://www.codeporting.com/)
-+ **Product Home:** [CodePorting.Translator Cs2Cpp](https://products.codeporting.com/translator/cs2cpp)
-+ **Download:** [Install CodePorting.Translator Cs2Cpp](https://downloads.codeporting.com/)
-+ **Documentation:** [CodePorting.Translator Cs2Cpp Documentation](https://docs.codeporting.com/translator/cs2cpp/)
-+ **Free Support Forum:** [CodePorting.Translator Cs2Cpp Free Support Forum](https://forum.codeporting.com/)
-+ **Blog:** [CodePorting.Translator Cs2Cpp Blog](https://blog.codeporting.com/)
++ **Website:** [www.codeporting.com](https://www.codeporting.com)
++ **Product Home:** [CodePorting.Translator Cs2Cpp](https://products.codeporting.com/translator/csharp-to-cpp)
++ **Download:** [Install CodePorting.Translator Cs2Cpp](https://products.codeporting.com/translator/csharp-to-cpp/release)
++ **Documentation:** [CodePorting.Translator Cs2Cpp Documentation](https://products.codeporting.com/translator/csharp-to-cpp)
++ **Articles:** [CodePorting Articles](https://www.codeporting.com/articles)
